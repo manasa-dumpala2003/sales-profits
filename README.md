@@ -28,8 +28,7 @@ This project showcases a fully interactive **Sales and Profit Dashboard** create
 
 ## 📸 Preview
 
-![Dashboard Screenshot](https://github.com/manasa-dumpala2003/sales-profits/raw/main/sales%26profit%20dashboard.png)
-
+![Dashboard Screenshot](https://github.com/manasa-dumpala2003/sales-profits/commit/b61a90aca476d551b25cfe54208642fc380bc4db)
 ## ✍️ Author
 **Manasa Dumpala**  
 📧 [manasadumpala24@gmail.com]
