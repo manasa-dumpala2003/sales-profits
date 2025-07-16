@@ -20,7 +20,7 @@ This project showcases a fully interactive **Sales and Profit Dashboard** create
 
 ## 📦 How to Use
 1. Download the Excel file:  
-   [Click to Download `sales_dashboard.xlsx`](https://https://github.com/manasa-dumpala2003/sales-profits/blob/main/Sales%20and%20Profit%20Data.xlsx)
+   [Click to Download `sales_dashboard.xlsx`](https://github.com/manasa-dumpala2003/sales-profits/blob/main/Sales%20and%20Profit%20Data.xlsx)
 
 2. Open in Excel (preferably Excel 2016 or later)
 
